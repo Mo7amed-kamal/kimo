@@ -169,6 +169,7 @@ html {
         font-weight: bold;
         font-size: 50px;
         color: var(--min-color);
+        font-family: 'Times New Roman', Times, serif;
     }
     .landing .intro-text p  {
     font-size: 19px;
