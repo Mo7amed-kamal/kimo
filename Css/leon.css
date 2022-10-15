@@ -214,7 +214,6 @@ html {
     .services .services-content {
         margin-top: 100px;
         margin: 70px ;
-        padding: 30px;
         display: grid;
         grid-template-columns: repeat(auto-fill, minmax(300px , 1fr));
         gap: 30px;
